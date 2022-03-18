@@ -9,7 +9,9 @@ Our diverse and inclusive culture reflects the society we live in. This helps us
 We work in multi-disciplinary teams using Agile methods to innovate and radically improve services that:
 
 • Raise education standards and provide the best start in life for children
+
 • Support disadvantaged and vulnerable children and young people
+
 • Drive economic growth.
 
 You can read more about our strategy on the [DfE digital and technology strategy blog](https://dfedigital.blog.gov.uk/)
