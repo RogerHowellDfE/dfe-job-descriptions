@@ -7,6 +7,7 @@ These are exciting times at the Department for Education. In 2022 we'll continue
 Our diverse and inclusive culture reflects the society we live in. This helps us to achieve better outcomes for all our users. See what our team have to say here: [Culture video](https://www.youtube.com/watch?v=dgS-yJKR4Z4). 
 
 We work in multi-disciplinary teams using Agile methods to innovate and radically improve services that:
+
 • Raise education standards and provide the best start in life for children
 • Support disadvantaged and vulnerable children and young people
 • Drive economic growth.
